@@ -17,5 +17,3 @@ Hello! I'm Osama Hanoun
 - A future programmer
 - I've a bachelor degree of civil engineering <br> <br> <br>
 [Github](https://github.com/OsamaHanoun/)
-
-
