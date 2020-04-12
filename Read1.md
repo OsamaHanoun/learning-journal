@@ -14,10 +14,4 @@ Images | \!\[alt text\]\(url\)
 
 [PDF Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-# GitHub Pages
-Word | Definition
------------- | -------------
-GitHub Pages | It's away to host a website about yourself, your organization, or your project directly from a GitHub repository
-Repository | A place where or receptacle in which things are or may be stored.
-
 
