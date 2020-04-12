@@ -1,6 +1,6 @@
 # **Growth Mindset**
 
-__Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
+_Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
