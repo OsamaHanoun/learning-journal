@@ -1,5 +1,4 @@
 # Markdown 
-
 Word | Definition/Syntax
 ------------ | -------------
 Markdown | A simple way to style text on the web
