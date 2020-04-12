@@ -1,9 +1,6 @@
 # **Growth Mindset**
 
-You can use the [editor on GitHub](https://github.com/OsamaHanoun/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+__Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
