@@ -15,5 +15,5 @@ _Is the ability to keep improving yourself no matter what get across you ,to see
 <br>
 Hello! I'm Osama Hanoun 
 - A future programmer
-- I've a bachelor degree of civil engineering <br> <br> <br>
-[Github](https://github.com/OsamaHanoun/)
+- I've a bachelor degree of civil engineering <br>
+- [Github](https://github.com/OsamaHanoun/)
