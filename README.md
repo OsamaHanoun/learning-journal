@@ -1,11 +1,13 @@
 # **Growth Mindset**
 
 _Is the ability to keep improving yourself no matter what get across you ,to see everything with a positive rospective and to turn every obstacle you face to an advantage for you._
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## **How to keep yourself in a growth mindset**
 ```markdown
+- If someone can do it the you can
+- Every obstacle is a step to your future
+- Always, Put your goal in front of you.
+
 Syntax highlighted code block
 
 # Header 1
@@ -15,7 +17,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1.
 2. List
 
 **Bold** and _Italic_ and `Code` text
