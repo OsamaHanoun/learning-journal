@@ -3,7 +3,7 @@
 <br>
 Hello! I'm Osama Hanoun 
 - A future programmer
-- I've a bachelor degree of civil engineering <br>
+- I've a bachelor degree in civil engineering <br>
 - [Github](https://github.com/OsamaHanoun/)
 <br>
 
@@ -20,7 +20,7 @@ _Is the ability to keep improving yourself no matter what get across you ,to see
 ```
 
 | Task  |  Link |
-|:-:|:-:|
+|---|:-:|
 |  Learning Markdown | [Read 1](https://osamahanoun.github.io/learning-journal/Read1)  |
 | The Coder's Computer  |  [Read 2](https://osamahanoun.github.io/learning-journal/Read2) |
 |   Revisions and the Cloud | [Read 3](https://osamahanoun.github.io/learning-journal/Read3) |
