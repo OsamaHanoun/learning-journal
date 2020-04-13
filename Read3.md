@@ -1,6 +1,6 @@
 
 
- # Important Points to know about Revisions and the Cloud
+<h1> Important Points to know about Revisions and the Cloud </h1>
 
 * Version Control mainly used to record all the changes that happened to a document, so you can restore any time and any version you have made of your document 
 * Local Version Control maintains track of files within the local system.
@@ -9,7 +9,7 @@
 * Git is a Distributed Version Control System 
 
 # Setting up a Git Repository
-:
+
 1. $ cd test (cd = change directory)
 1. $ git init
 1. $ git add *.c
