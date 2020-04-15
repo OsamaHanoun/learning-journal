@@ -22,7 +22,13 @@ _Is the ability to keep improving yourself no matter what get across you ,to see
 | Task  |  Link |
 |---|:-:|
 |  Learning Markdown | [Read 1](https://osamahanoun.github.io/learning-journal/Read1)  |
-| The Coder's Computer  |  [Read 2](https://osamahanoun.github.io/learning-journal/Read2) |
-|   Revisions and the Cloud | [Read 3](https://osamahanoun.github.io/learning-journal/Read3) |
+|  The Coder's Computer  |  [Read 2](https://osamahanoun.github.io/learning-journal/Read2) |
+|  Revisions and the Cloud | [Read 3](https://osamahanoun.github.io/learning-journal/Read3) |
 |  Structure web pages with HTML | [Read 4](https://osamahanoun.github.io/learning-journal/Read4) |
+|  Design web pages with CSS | [Read 5](https://osamahanoun.github.io/learning-journal/Read5)  |
+|  Dynamic web pages with JavaScript | [Read 6a](https://osamahanoun.github.io/learning-journal/Read6a)  |
+|  Computer Architecture and Logic | [Read 6b](https://osamahanoun.github.io/learning-journal/Read6b)  |
+|  Programming with JavaScript | [Read 7](https://osamahanoun.github.io/learning-journal/Read7)  |
+|  Operators and Loops | [Read 8](https://osamahanoun.github.io/learning-journal/Read8)  |
+
 
