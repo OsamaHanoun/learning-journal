@@ -7,11 +7,9 @@ Sometimes it is required to compare the value of one variable with other. The co
 # Logical Operators in JS
 
 There are three logical operators in JavaScript: || (OR), && (AND), ! (NOT).
+They can be applied to values of any type, not only boolean. Their result can also be of any type.
 
-Although they are called “logical”, they can be applied to values of any type, not only boolean. Their result can also be of any type.
 
-![](https://www.miltonmarketing.com/wp-content/uploads/2018/04/javascriptcomparisonoperatorsimage041.jpg
-)
 	
 
 # Loops in JS
