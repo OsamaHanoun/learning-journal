@@ -1,4 +1,4 @@
-# Comparisson Operators
+# Comparison  Operators
 
 Sometimes it is required to compare the value of one variable with other. The comparison operators take simple values (numbers or string) as arguments and evaluate either true or false. Here is a list of comparison operators
 
